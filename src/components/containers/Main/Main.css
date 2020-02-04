@@ -1,0 +1,30 @@
+/*Main.css*/
+
+main {
+    background-color: var(--white);
+    height: 100%;
+}
+
+.main-inner-container {
+    padding: 2em;
+    transition: all ease 0.2s;
+    background-color: inherit;
+    height: 100%;
+    opacity: 0;
+}
+
+.main-inner-container.fade-in {
+    opacity: 1;
+}
+
+.main-inner-container > div {
+    opacity: 0;
+    transition: all ease 1s;
+}
+
+.main-inner-container.fade-in {
+}
+
+.main-inner-container.fade-in > div {
+    opacity: 1;
+}
