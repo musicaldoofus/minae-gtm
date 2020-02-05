@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/minae-gtm/static/css/main.431757dd.chunk.css",
+    "main.js": "/minae-gtm/static/js/main.e3279259.chunk.js",
+    "main.js.map": "/minae-gtm/static/js/main.e3279259.chunk.js.map",
+    "runtime-main.js": "/minae-gtm/static/js/runtime-main.ddd270ed.js",
+    "runtime-main.js.map": "/minae-gtm/static/js/runtime-main.ddd270ed.js.map",
+    "static/js/2.6d33d0bd.chunk.js": "/minae-gtm/static/js/2.6d33d0bd.chunk.js",
+    "static/js/2.6d33d0bd.chunk.js.map": "/minae-gtm/static/js/2.6d33d0bd.chunk.js.map",
+    "index.html": "/minae-gtm/index.html",
+    "precache-manifest.eeca8019aef6e7380053a6c00f3ec905.js": "/minae-gtm/precache-manifest.eeca8019aef6e7380053a6c00f3ec905.js",
+    "service-worker.js": "/minae-gtm/service-worker.js",
+    "static/css/main.431757dd.chunk.css.map": "/minae-gtm/static/css/main.431757dd.chunk.css.map",
+    "static/js/2.6d33d0bd.chunk.js.LICENSE.txt": "/minae-gtm/static/js/2.6d33d0bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddd270ed.js",
+    "static/js/2.6d33d0bd.chunk.js",
+    "static/css/main.431757dd.chunk.css",
+    "static/js/main.e3279259.chunk.js"
+  ]
+}
